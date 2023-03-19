@@ -1,2 +1,2 @@
 # docker-river-dependencies
-Docker with Dependencies for River ML
+Dockerfile for RiverML Dependencies and GitHub workflow for RaspberryPi build
